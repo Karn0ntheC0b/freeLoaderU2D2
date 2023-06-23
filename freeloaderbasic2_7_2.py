@@ -1,9 +1,9 @@
 """
 freeloaderbasic2_7_2.py
 
-Written for Python 3 via ChatGPT. Based off of Python 2 script developed by Anthony McNicoll <am859@cornell.edu>
-Based on work by John Amend and Nadia Cheng
-Load cell data reading functionality added from python-example-3 by Mantej Dheri
+Written for Python 3 via ChatGPT. 
+Loosely based on work by John Amend, Nadia Cheng, and Anthony McNicoll.
+Load cell data reading functionality added from python-example-3 by Mantej Dheri.
 
 Simple Python interface for working with a Freeloader machine.
 It assumes you have a simple Freeloader consisting of the following:
